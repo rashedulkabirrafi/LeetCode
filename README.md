@@ -23,5 +23,6 @@ To save all of my personalized solutions to LeetCode problems, I set up this rep
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/rashedulkabirrafi/LeetCode/tree/master/0058-length-of-last-word) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/Rashedul-Kabir-Rafi/LeetCode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 <!---LeetCode Topics End-->
